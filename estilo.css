@@ -1,0 +1,37 @@
+/* estilo.css do Titulo Teste1 */
+
+.estilo {
+    color: rgb(0, 0, 8);
+    font-size: 50px;
+}
+
+/*Plano de Fundo degrade do Teste1*/
+.cordefundomenu {
+    background: linear-gradient(to bottom, #e46363, #4c4cf3);
+}
+
+body{
+    width:1000;
+     height:1000 ;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: left;
+}
+
+/*Testo da Histora do Chrome*/
+.texto{
+    width: 80%;
+    height: 20px;
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+    text-align: justify;
+}
+/*Tamanho do icone de casa para voltar para menu*/
+.posicao{
+
+    float: left;
+}
+
+
+
